@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "img": "src/images/Apple-logo.png",
+    "company": "Apple",
+    "description": "Backend developer",
+    "time": "05/03/2023",
+    "tags": [
+        "remote",
+        "backend",
+        "job"
+    ],
+    "e-mail": "apple@gmail.com"
+  },
+  {
+    "id": 2,
+    "img": "https://1000logos.net/wp-content/uploads/2017/06/Samsung-Logo-2.png",
+    "company": "Samsung",
+    "description": "System utvecklare",
+    "time": "06/03/2023",
+    "tags": [
+      "backend",
+      "on-site",
+      "full-time",
+      "developer",
+      "job"
+    ],
+    "e-mail": "ap@gmail.com"
+  },
+  {
+    "id": 3,
+    "img": "https://play-lh.googleusercontent.com/UrY7BAZ-XfXGpfkeWg0zCCeo-7ras4DCoRalC_WXXWTK9q5b0Iw7B0YQMsVxZaNB7DM",
+    "company": "Spotify",
+    "description": "Frontend internship",
+    "time": "08/02/2023",
+    "tags": [
+      "frontend",
+      "internship",
+      "part-time",
+      "react",
+      "job"
+    ],
+    "e-mail": "spotify@mail.com"
+  },
+  {
+    "id": 4,
+    "img": "https://1000logos.net/wp-content/uploads/2016/10/Amazon-logo-meaning.jpg",
+    "company":"Amazon",
+    "description":"System utvecklare",
+    "time": "01/03/2023",
+    "tags": [
+      "fullstack",
+      "full-time",
+      "developer",
+      "job"
+    ]
+  }
+]
