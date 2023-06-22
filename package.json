@@ -7,8 +7,9 @@
   "scripts": {
     "predeplay": "npm run build",
     "deploy": "gh-pages -d build",
-    "dev": "vite",
+    "start": "react-scripts start",
     "build": "vite build",
+    "dev": "vite",
     "preview": "vite preview"
   },
   "dependencies": {
