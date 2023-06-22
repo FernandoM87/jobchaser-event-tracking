@@ -4,7 +4,7 @@ import App from './App'
 import store from './store/index'
 import { Provider } from 'react-redux'
 import { ToastContainer } from 'react-toastify';
-import { HashRouter } from "react-router-dom";
+import { BrowserRouter } from "react-router-dom";
 import { ChakraProvider } from '@chakra-ui/react'
 import 'react-toastify/dist/ReactToastify.css';
 import './css/index.css'

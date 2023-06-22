@@ -1,6 +1,6 @@
 import * as React from 'react'
 import { Home, ApplicationFormOne, ApplicationFormResult } from './components/index.jsx';
-import { HashRouter } from "react-router-dom"
+import { Routes, Route } from "react-router-dom"
 
 
 
