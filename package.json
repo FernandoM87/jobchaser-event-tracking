@@ -1,10 +1,12 @@
 {
   "name": "jobchaser",
   "private": true,
-  "homepage": "https://FernandoM87.github.io/jobchaser-event-tracking",
+  "homepage": "http://FernandoM87.github.io/jobchaser-event-tracking",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
+    "predeplay": "npm run build",
+    "deploy": "gh-pages -d build",
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview"
@@ -17,6 +19,7 @@
     "@reduxjs/toolkit": "^1.9.3",
     "bootstrap": "^5.2.3",
     "framer-motion": "^10.10.0",
+    "gh-pages": "^5.0.0",
     "localforage": "^1.10.0",
     "match-sorter": "^6.3.1",
     "react": "^18.2.0",
