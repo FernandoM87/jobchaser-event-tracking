@@ -1,7 +1,7 @@
 {
   "name": "jobchaser",
   "private": true,
-  "homepage": "http://FernandoM87.github.io/jobchaser-event-tracking",
+  "homepage": "https://github.com/FernandoM87/jobchaser-event-tracking.git",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
